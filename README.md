@@ -4,16 +4,6 @@ The Career Recommendation System is implemented using Python and Tkinter. The pr
 
 The application works locally and does not require internet access during execution.
 
-# Software and Tools Used
-
-Tool / Technology    Purpose
-Python 3             Main programming language
-Tkinter              Graphical user interface
-VS Code              Writing and running the program
-Python sets          Comparing skills and interests
-Python dictionaries  Storing career profiles
-Python sorting       Ranking career recommendations
-
 # Explanation of the Implementation
 
 Career database: The careers dictionary stores six career profiles. Each profile contains the skills required, relevant interests, a short description, and suggested learning areas.
