@@ -14,7 +14,7 @@ Python sets          Comparing skills and interests
 Python dictionaries  Storing career profiles
 Python sorting       Ranking career recommendations
 
-# xplanation of the Implementation
+# Explanation of the Implementation
 
 Career database: The careers dictionary stores six career profiles. Each profile contains the skills required, relevant interests, a short description, and suggested learning areas.
 
